@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+main{
+    margin-left: 50px;
+}
+
+section{
+    margin-top: 20px;
+}
+
+#parte1{
+    color: rebeccapurple;
+
+}
+
+#parte2{
+    color: orange;
+}
